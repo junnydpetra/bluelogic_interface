@@ -1,3 +1,6 @@
+Nome completo: Junnyldo Kersei Cardoso Menezes Costa
+E-mail: junnycmenezes@gmail.com
+Telefone de contato: 41 9 9847-5685
 
 BlueLogic CRUD Project
 
@@ -59,6 +62,9 @@ npm run serve
 
 A aplicação Vue.js estará disponível em: http://localhost:8081
 
+cd frontend-react
+PORT=8081 npm start
+
 Estrutura de Pastas:
 
 A estrutura básica do projeto é a seguinte
@@ -72,9 +78,13 @@ blue_logic/
 │   └── main.ts        # Arquivo principal da API
 │
 ├── frontend-vue/      # Interface Vue.js
-   ├── src/
-   ├── public/
-   └── vue.config.js
+│   ├── src/
+│   ├── public/
+│   └── vue.config.js
+│
+└── frontend-react/    # Interface React.js
+    ├── src/
+    └── public/
 
 Endpoints da API:
 
@@ -93,7 +103,7 @@ Backend (NestJS)
 - Validação: Implementação de validações básicas para os dados enviados nas requisições.
 - Endereçamento: API RESTful seguindo boas práticas de organização de rotas.
 
-Frontend (Vue.js):
+Frontend (Vue.js ou React.js):
 
 - Integração com API: O frontend consome os dados da API NestJS utilizando chamadas HTTP.
 - Interface Responsiva: A interface permite criar, visualizar, atualizar e deletar registros interagindo diretamente com a API.
