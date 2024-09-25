@@ -1,5 +1,5 @@
-Nome completo: Junnyldo Kersei Cardoso Menezes Costa
-E-mail: junnycmenezes@gmail.com
+Nome completo: Junnyldo Kersei Cardoso Menezes Costa |
+E-mail: junnycmenezes@gmail.com |
 Telefone de contato: 41 9 9847-5685
 
 BlueLogic CRUD Project
