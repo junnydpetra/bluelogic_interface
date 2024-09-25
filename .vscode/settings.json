@@ -1,0 +1,5 @@
+{
+    "debug.closeReadonlyTabsOnEnd": true,
+    "editor.unfoldOnClickAfterEndOfLine": true,
+    "debug.openExplorerOnEnd": true
+}
